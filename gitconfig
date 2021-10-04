@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandre.norbrt78@gmail.com
+	name = Alexandre Schmitt
